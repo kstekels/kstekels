@@ -12,7 +12,7 @@
   
   - [Video Viewer](https://github.com/kstekels/Video-Viewer-App) - The native iOS app is written in Swift. This demo app is just a test project, how to play cached offline content in the app.
 
-- I'm interested in mobile application development and right now I'm learning Kotlin to write better native Android apps 🙂
+- I'm interested in mobile application development and right now I'm learning Kotlin and Swift to write better native Android and iOS apps 🙂
 
 - You can reach me at k.stekels@gmail.com
 
