@@ -14,6 +14,4 @@
 
 - You can reach me at k.stekels@gmail.com
 
-CV -> https://kstekels.github.io/html-css-cv/
-
 Connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karlis-stekels-416941214)
